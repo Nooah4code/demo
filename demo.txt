@@ -2,4 +2,8 @@ teste
 teste
 teste
 
+<<<<<<< HEAD
 teste muito doido
+=======
+new branch
+>>>>>>> new
