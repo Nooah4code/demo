@@ -7,3 +7,5 @@ teste muito doido
 =======
 new branch
 >>>>>>> new
+
+teste do github para maquina
